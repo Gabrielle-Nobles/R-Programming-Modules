@@ -8,7 +8,7 @@ t(B)
 
 #create two vectors (a and b)
 a <- c(1:2)
-b <- c(1:4)
+b <- c(1:2)
 
 #multiply matrices by vectors 
 C = a*A
