@@ -16,7 +16,7 @@ D = b*B
 
 #re-assign the vectors a and b to equal the number of rows of the column for the corresponding matrix
 a =c(1:10)
-b =c(1:100)
+b =c(1:10)
 
 #multiply the matrixx by matrix 
 A %*%a
